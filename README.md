@@ -16,6 +16,6 @@ I'm Vincent Gunawan, a final year computer science student at Universitas Gadjah
 
 ---
 
-![Jokushu's GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=jokushu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+![Jokushu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokushu&show_icons=true&theme=radical)
 
-![Jokushu's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=jokushu&layout=compact&theme=radical)
+![Jokushu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jokushu&layout=compact)]
