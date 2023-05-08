@@ -1,6 +1,6 @@
 ## Hi there 👋!
 
-I'm Vincent Gunawan, a final year computer science student at Universitas Gadjah Mada, Indonesia. Writing software is probably my greatest passion! Loves to learn and interested in new and challenging things.
+I'm Vincent Gunawan, a lifelong learner. Writing software is probably my greatest passion! Loves to learn and interested in new and challenging things.
 
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me:
@@ -16,6 +16,6 @@ I'm Vincent Gunawan, a final year computer science student at Universitas Gadjah
 
 ---
 
-![Jokushu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokushu&show_icons=true&theme=radical)
+![Jokushu's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskedEnigma&show_icons=true&theme=radical)
 
-![Jokushu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jokushu&layout=compact)
+![Jokushu's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maskedEnigma&layout=compact)
